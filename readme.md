@@ -15,4 +15,4 @@ Programs were developed in a Windows 10 environment. While some can simply be
 run and validated by observing the output, others required input redirection.  
 
 Example of input redirection in PowerShell:
-'''get-content exercise1-9.c | .\exercise1-9.exe'''
+''get-content exercise1-9.c | .\exercise1-9.exe''
